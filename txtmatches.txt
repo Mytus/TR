@@ -1,0 +1,24 @@
+- LocalNom: FC Barcelona
+  LocalEscut: fcbarcelona
+  LocalGuanya: 2.5
+  LocalGuanyaPenals: 6
+  VisitantNom: Atlético Bilbao
+  VisitantEscut: athletic
+  VisitantGuanya: 5.5
+  VisitantGuanyaPenals: 8.2
+- LocalNom: Atlético Madrid
+  LocalEscut: atletico
+  LocalGuanya: 4.5
+  LocalGuanyaPenals: 7
+  VisitantNom: Girona FC
+  VisitantEscut: girona
+  VisitantGuanya: 3.5
+  VisitantGuanyaPenals: 6.2
+- LocalNom: Real Madrid
+  LocalEscut: madrid
+  LocalGuanya: 3.5
+  LocalGuanyaPenals: 6
+  VisitantNom: Rayo Vallecano
+  VisitantEscut: rayo
+  VisitantGuanya: 3.4
+  VisitantGuanyaPenals: 5.9
