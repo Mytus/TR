@@ -6,7 +6,6 @@
   VisitantEscut: athletic
   VisitantGuanya: 5.5
   VisitantGuanyaPenals: 8.2
-  Resultat: 2-1
 - LocalNom: Atlético Madrid
   LocalEscut: atletico
   LocalGuanya: 4.5
@@ -15,8 +14,6 @@
   VisitantEscut: girona
   VisitantGuanya: 3.5
   VisitantGuanyaPenals: 6.2
-  Resultat: 1-1
-  ResultatPenals: 5-4
 - LocalNom: Real Madrid
   LocalEscut: madrid
   LocalGuanya: 3.5
