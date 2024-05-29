@@ -15,6 +15,7 @@
   VisitantEscut: girona
   VisitantGuanya: 3.5
   VisitantGuanyaPenals: 6.2
+  Resultat: 1-1
 - LocalNom: Real Madrid
   LocalEscut: madrid
   LocalGuanya: 3.5
